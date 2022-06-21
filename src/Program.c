@@ -2,4 +2,11 @@
 Assignment: Lab 1
 */
 
-//here we are creating the program
+//this "program" file is the main file
+
+#include <stdio.h>
+
+int main () //use int if we are returning an int
+{
+
+}
